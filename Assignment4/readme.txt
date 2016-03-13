@@ -1,0 +1,2 @@
+I use the Adjacency matrix representation. In this representation, each graph of n nodes is represented by an n x n matrix A.
+Because it is simple to implement, and it is easy and fast to tell if a pair (i,j) is an edge: simply check if A[i][j] is 1 or 0.
