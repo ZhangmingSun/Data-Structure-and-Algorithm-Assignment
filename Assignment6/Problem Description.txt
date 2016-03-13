@@ -1,0 +1,9 @@
+Implement radix sort using LSD.
+
+Run your program on 4 digit numbers.  your list should have unsorted numbers (about 15)
+Print out the sorted array.
+
+submit the screen shot and the code
+
+
+Idea -- using "Radix sort-LSD"
