@@ -1,0 +1,25 @@
+==============================================================================
+1. Given an array of size n, it has some numbers in it.  Write a program that returns TRUE if the array is a Binary Search Tree, or FALSE if it is not BST.
+     Run this program 2 times.  First run would be for an array that is not a BST and it returns false. The second run the array is a BST and it returns true..
+
+
+==============================================================================
+2. We did Binary search algorithm in the class.  Modify it to do Tertiary search.  So your program will divide the array into 3 parts (instead of 2) in order to search for the item. Remember the array is sorted. The program should be RECURSIVE.
+Run our program to search as follows:
+     a. Number is the first item in the array
+     b. Number is the last item in the array
+     c. Number is somewhere in the array (not first or last item)
+     d. Number not in the array.
+Each time you will also print the array items.  
+
+
+
+Submit the code and the screen shot of each run.
+
+
+
+
+
+
+
+
