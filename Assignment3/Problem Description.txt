@@ -1,0 +1,7 @@
+
+Implement the Heap sort.
+Use Array representation
+run the algorithm for 20 numbers.
+Print them before sorting
+then print after sorting
+
